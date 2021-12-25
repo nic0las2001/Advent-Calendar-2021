@@ -1,7 +1,6 @@
 import time
 import progressbar
 
-
 def lanternfish(days):
     open_input = open("d6_input.txt","r")
 
